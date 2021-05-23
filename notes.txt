@@ -1,7 +1,9 @@
 NOTES:
 
-1. Make blockchain
+1. Set up the blockchain skeleton on blockchain.py
 
-2. Get rich
+2. figure out what to do with it tbh
 
-3.
+3. whats a block?
+
+4.
